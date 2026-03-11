@@ -14,11 +14,7 @@ This project implements an intent based chatbot using clustering techniques and 
 
 ## Run the Project
 
-Install dependencies:
+How to Run
 
 pip install -r requirements.txt
-
-Run demo:
-
 bash run_demo.sh
-
